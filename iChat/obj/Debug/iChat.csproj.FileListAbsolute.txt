@@ -1,0 +1,302 @@
+C:\iSocket\iChat\iChat\bin\Debug\iChat.exe.config
+C:\iSocket\iChat\iChat\bin\Debug\iChat.exe
+C:\iSocket\iChat\iChat\bin\Debug\iChat.pdb
+C:\iSocket\iChat\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\iSocket\iChat\iChat\obj\Debug\iChat.Form1.resources
+C:\iSocket\iChat\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\iSocket\iChat\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\iSocket\iChat\iChat\obj\Debug\iChat.exe
+C:\iSocket\iChat\iChat\obj\Debug\iChat.pdb
+C:\iChat\iChat\bin\Debug\iChat.exe.config
+C:\iChat\iChat\obj\Debug\iChat.exe
+C:\iChat\iChat\obj\Debug\iChat.pdb
+C:\iChat\iChat\bin\Debug\iChat.exe
+C:\iChat\iChat\bin\Debug\iChat.pdb
+C:\iChat\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\iChat\iChat\obj\Debug\iChat.Form1.resources
+C:\iChat\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\iChat\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\iChat\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\tan\Desktop\iChat\iChat\bin\Debug\iChat.exe.config
+C:\Users\tan\Desktop\iChat\iChat\obj\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat\iChat\obj\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat\iChat\bin\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat\iChat\bin\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\tan\Desktop\iChat\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\tan\Desktop\iChat\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\tan\Desktop\iChat\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\tan\Desktop\iChat\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\tan\Desktop\iChat\iChat\obj\Debug\iChat.Form3.resources
+C:\iChat\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\tan\Desktop\iChat v1.0\iChat\bin\Debug\iChat.exe.config
+C:\Users\tan\Desktop\iChat v1.0\iChat\obj\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat v1.0\iChat\obj\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat v1.0\iChat\bin\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat v1.0\iChat\bin\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat v1.0\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\tan\Desktop\iChat v1.0\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\tan\Desktop\iChat v1.0\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\tan\Desktop\iChat v1.0\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\tan\Desktop\iChat v1.0\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\tan\Desktop\iChat v1.0\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\tan\Desktop\iChat v2.0\iChat\bin\Debug\iChat.exe.config
+C:\Users\tan\Desktop\iChat v2.0\iChat\obj\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat v2.0\iChat\obj\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat v2.0\iChat\bin\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat v2.0\iChat\bin\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat v2.0\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\tan\Desktop\iChat v2.0\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\tan\Desktop\iChat v2.0\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\tan\Desktop\iChat v2.0\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\tan\Desktop\iChat v2.0\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\tan\Desktop\iChat v2.0\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\tan\Desktop\iChat v3.0\iChat\bin\Debug\iChat.exe.config
+C:\Users\tan\Desktop\iChat v3.0\iChat\obj\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat v3.0\iChat\obj\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat v3.0\iChat\bin\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat v3.0\iChat\bin\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat v3.0\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\tan\Desktop\iChat v3.0\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\tan\Desktop\iChat v3.0\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\tan\Desktop\iChat v3.0\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\tan\Desktop\iChat v3.0\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\tan\Desktop\iChat v3.0\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\德伦\Desktop\iChat v4.0\iChat\bin\Debug\iChat.exe.config
+C:\Users\德伦\Desktop\iChat v4.0\iChat\obj\Debug\iChat.exe
+C:\Users\德伦\Desktop\iChat v4.0\iChat\obj\Debug\iChat.pdb
+C:\Users\德伦\Desktop\iChat v4.0\iChat\bin\Debug\iChat.exe
+C:\Users\德伦\Desktop\iChat v4.0\iChat\bin\Debug\iChat.pdb
+C:\Users\德伦\Desktop\iChat v4.0\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\德伦\Desktop\iChat v4.0\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\德伦\Desktop\iChat v4.0\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\德伦\Desktop\iChat v4.0\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\德伦\Desktop\iChat v4.0\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\德伦\Desktop\iChat v4.0\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\tan\Desktop\iChat v 5.0\iChat\bin\Debug\iChat.exe.config
+C:\Users\tan\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat v 5.0\iChat\bin\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat v 5.0\iChat\bin\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\tan\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\tan\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\tan\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\tan\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\tan\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\wangshuo\Desktop\iChat v 5.0\iChat\bin\Debug\iChat.exe.config
+C:\Users\wangshuo\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v 5.0\iChat\bin\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v 5.0\iChat\bin\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\wangshuo\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\wangshuo\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\wangshuo\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\wangshuo\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\wangshuo\Desktop\iChat v 5.0\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\wangshuo\Desktop\iChat v 5.1\iChat\bin\Debug\iChat.exe.config
+C:\Users\wangshuo\Desktop\iChat v 5.1\iChat\obj\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v 5.1\iChat\obj\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v 5.1\iChat\bin\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v 5.1\iChat\bin\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v 5.1\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\wangshuo\Desktop\iChat v 5.1\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\wangshuo\Desktop\iChat v 5.1\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\wangshuo\Desktop\iChat v 5.1\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\wangshuo\Desktop\iChat v 5.1\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\wangshuo\Desktop\iChat v 5.1\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\wangshuo\Desktop\iChat v 5.2\iChat\bin\Debug\iChat.exe.config
+C:\Users\wangshuo\Desktop\iChat v 5.2\iChat\obj\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v 5.2\iChat\obj\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v 5.2\iChat\bin\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v 5.2\iChat\bin\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v 5.2\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\wangshuo\Desktop\iChat v 5.2\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\wangshuo\Desktop\iChat v 5.2\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\wangshuo\Desktop\iChat v 5.2\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\wangshuo\Desktop\iChat v 5.2\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\wangshuo\Desktop\iChat v 5.2\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\iChat v 5.2\iChat\bin\Debug\iChat.exe.config
+C:\iChat v 5.2\iChat\obj\Debug\iChat.exe
+C:\iChat v 5.2\iChat\obj\Debug\iChat.pdb
+C:\iChat v 5.2\iChat\bin\Debug\iChat.exe
+C:\iChat v 5.2\iChat\bin\Debug\iChat.pdb
+C:\iChat v 5.2\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\iChat v 5.2\iChat\obj\Debug\iChat.Form1.resources
+C:\iChat v 5.2\iChat\obj\Debug\iChat.Form2.resources
+C:\iChat v 5.2\iChat\obj\Debug\iChat.Form3.resources
+C:\iChat v 5.2\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\iChat v 5.2\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\iChat v 5.3\iChat\bin\Debug\iChat.exe.config
+C:\iChat v 5.3\iChat\obj\Debug\iChat.exe
+C:\iChat v 5.3\iChat\obj\Debug\iChat.pdb
+C:\iChat v 5.3\iChat\bin\Debug\iChat.exe
+C:\iChat v 5.3\iChat\bin\Debug\iChat.pdb
+C:\iChat v 5.3\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\iChat v 5.3\iChat\obj\Debug\iChat.Form1.resources
+C:\iChat v 5.3\iChat\obj\Debug\iChat.Form2.resources
+C:\iChat v 5.3\iChat\obj\Debug\iChat.Form3.resources
+C:\iChat v 5.3\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\iChat v 5.3\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\iChat v 5.3\iChat\obj\Debug\iChat.Form4.resources
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\bin\Debug\iChat.exe.config
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\obj\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\obj\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\obj\Debug\iChat.Form4.resources
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\obj\Debug\iChat.Form5.resources
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\obj\Debug\iChat.Form6.resources
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\bin\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v 5.5\iChat\bin\Debug\iChat.pdb
+C:\iChat v 5.6\iChat\bin\Debug\iChat.exe.config
+C:\iChat v 5.6\iChat\obj\Debug\iChat.exe
+C:\iChat v 5.6\iChat\obj\Debug\iChat.pdb
+C:\iChat v 5.6\iChat\bin\Debug\iChat.exe
+C:\iChat v 5.6\iChat\bin\Debug\iChat.pdb
+C:\iChat v 5.6\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\iChat v 5.6\iChat\obj\Debug\iChat.Form1.resources
+C:\iChat v 5.6\iChat\obj\Debug\iChat.Form2.resources
+C:\iChat v 5.6\iChat\obj\Debug\iChat.Form3.resources
+C:\iChat v 5.6\iChat\obj\Debug\iChat.Form4.resources
+C:\iChat v 5.6\iChat\obj\Debug\iChat.Form5.resources
+C:\iChat v 5.6\iChat\obj\Debug\iChat.Form6.resources
+C:\iChat v 5.6\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\iChat v 5.6\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\bin\Debug\iChat.exe.config
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\obj\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\obj\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\bin\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\bin\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\obj\Debug\iChat.Form4.resources
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\obj\Debug\iChat.Form5.resources
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\obj\Debug\iChat.Form6.resources
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\wangshuo\Desktop\iChat v 5.87\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\tan\Desktop\iChat v6.1\iChat\bin\Debug\iChat.exe.config
+C:\Users\tan\Desktop\iChat v6.1\iChat\obj\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat v6.1\iChat\bin\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat v6.1\iChat\bin\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat v6.1\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\tan\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\tan\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\tan\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\tan\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Form4.resources
+C:\Users\tan\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Form5.resources
+C:\Users\tan\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Form6.resources
+C:\Users\tan\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\tan\Desktop\iChat v6.1\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\tan\Desktop\iChat v6.1\iChat\obj\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\bin\Debug\iChat.exe.config
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\obj\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\obj\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\bin\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\bin\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Form4.resources
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Form5.resources
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Form6.resources
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\wangshuo\Desktop\iChat v6.1\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\bin\Debug\iChat.exe.config
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\obj\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\obj\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\bin\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\bin\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\obj\Debug\iChat.Form4.resources
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\obj\Debug\iChat.Form5.resources
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\obj\Debug\iChat.Form6.resources
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\wangshuo\Desktop\iChat v6.2\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\iChat v7\iChat\bin\Debug\iChat.exe.config
+C:\iChat v7\iChat\obj\Debug\iChat.exe
+C:\iChat v7\iChat\obj\Debug\iChat.pdb
+C:\iChat v7\iChat\bin\Debug\iChat.exe
+C:\iChat v7\iChat\bin\Debug\iChat.pdb
+C:\iChat v7\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\iChat v7\iChat\obj\Debug\iChat.Form1.resources
+C:\iChat v7\iChat\obj\Debug\iChat.Form2.resources
+C:\iChat v7\iChat\obj\Debug\iChat.Form3.resources
+C:\iChat v7\iChat\obj\Debug\iChat.Form4.resources
+C:\iChat v7\iChat\obj\Debug\iChat.Form5.resources
+C:\iChat v7\iChat\obj\Debug\iChat.Form6.resources
+C:\iChat v7\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\iChat v7\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\iChat 8\iChat\bin\Debug\iChat.exe.config
+C:\iChat 8\iChat\obj\Debug\iChat.exe
+C:\iChat 8\iChat\obj\Debug\iChat.pdb
+C:\iChat 8\iChat\bin\Debug\iChat.exe
+C:\iChat 8\iChat\bin\Debug\iChat.pdb
+C:\iChat 8\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\iChat 8\iChat\obj\Debug\iChat.Form1.resources
+C:\iChat 8\iChat\obj\Debug\iChat.Form2.resources
+C:\iChat 8\iChat\obj\Debug\iChat.Form3.resources
+C:\iChat 8\iChat\obj\Debug\iChat.Form4.resources
+C:\iChat 8\iChat\obj\Debug\iChat.Form5.resources
+C:\iChat 8\iChat\obj\Debug\iChat.Form6.resources
+C:\iChat 8\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\iChat 8\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\tan\Desktop\iChat 8\iChat\bin\Debug\iChat.exe.config
+C:\Users\tan\Desktop\iChat 8\iChat\obj\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat 8\iChat\obj\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat 8.2\iChat\bin\Debug\iChat.exe.config
+C:\Users\tan\Desktop\iChat 8.2\iChat\obj\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat 8.2\iChat\obj\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat 8.2\iChat\bin\Debug\iChat.exe
+C:\Users\tan\Desktop\iChat 8.2\iChat\bin\Debug\iChat.pdb
+C:\Users\tan\Desktop\iChat 8.2\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\tan\Desktop\iChat 8.2\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\tan\Desktop\iChat 8.2\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\tan\Desktop\iChat 8.2\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\tan\Desktop\iChat 8.2\iChat\obj\Debug\iChat.Form4.resources
+C:\Users\tan\Desktop\iChat 8.2\iChat\obj\Debug\iChat.Form5.resources
+C:\Users\tan\Desktop\iChat 8.2\iChat\obj\Debug\iChat.Form6.resources
+C:\Users\tan\Desktop\iChat 8.2\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\tan\Desktop\iChat 8.2\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\bin\Debug\iChat.exe.config
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\obj\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\obj\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\bin\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\bin\Debug\iChat.pdb
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\obj\Debug\iChat.Form1.resources
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\obj\Debug\iChat.Form2.resources
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\obj\Debug\iChat.Form3.resources
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\obj\Debug\iChat.Form4.resources
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\obj\Debug\iChat.Form5.resources
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\obj\Debug\iChat.Form6.resources
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\Users\wangshuo\Desktop\iChat 8.3\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
+C:\Users\wangshuo\Desktop\iChat 8.4\iChat\bin\Debug\iChat.exe.config
+C:\Users\wangshuo\Desktop\iChat 8.4\iChat\obj\Debug\iChat.exe
+C:\Users\wangshuo\Desktop\iChat 8.4\iChat\obj\Debug\iChat.pdb
+C:\iChat 8.4\iChat\bin\Debug\iChat.exe.config
+C:\iChat 8.4\iChat\obj\Debug\iChat.exe
+C:\iChat 8.4\iChat\obj\Debug\iChat.pdb
+C:\iChat 8.4\iChat\bin\Debug\iChat.exe
+C:\iChat 8.4\iChat\bin\Debug\iChat.pdb
+C:\iChat 8.4\iChat\obj\Debug\iChat.csprojResolveAssemblyReference.cache
+C:\iChat 8.4\iChat\obj\Debug\iChat.Form1.resources
+C:\iChat 8.4\iChat\obj\Debug\iChat.Form2.resources
+C:\iChat 8.4\iChat\obj\Debug\iChat.Form3.resources
+C:\iChat 8.4\iChat\obj\Debug\iChat.Form4.resources
+C:\iChat 8.4\iChat\obj\Debug\iChat.Form5.resources
+C:\iChat 8.4\iChat\obj\Debug\iChat.Form6.resources
+C:\iChat 8.4\iChat\obj\Debug\iChat.Properties.Resources.resources
+C:\iChat 8.4\iChat\obj\Debug\iChat.csproj.GenerateResource.Cache
